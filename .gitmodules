@@ -1,0 +1,6 @@
+[submodule "shell"]
+	path = shell
+	url = https://github.com/cnwangjie/furry-shell.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/cnwangjie/dotfiles.git
