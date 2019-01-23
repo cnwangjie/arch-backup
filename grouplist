@@ -1,0 +1,15 @@
+base-devel
+gnome
+base
+gnome-extra
+fcitx-im
+fprint
+lxde
+octave-forge
+qt
+qt5
+tesseract-data
+xorg-drivers
+xorg
+xorg-apps
+xorg-fonts
