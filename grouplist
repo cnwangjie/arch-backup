@@ -9,6 +9,8 @@ octave-forge
 qt
 qt5
 tesseract-data
+texlive-most
+texlive-lang
 xorg-drivers
 xorg
 xorg-apps
